@@ -1,7 +1,4 @@
-# Hi,I am Leon.
-
-## Profile
-**Product Manager | Digital Enthusiast | Photography Lover | Blogger**
+#### **Product Manager | Digital Enthusiast | Photography Lover | Blogger**
 
 Hey there! I'm Leon, a Product Manager who is extremely passionate about all things tech. I'm a fan of Smartisan and Apple products.
 
